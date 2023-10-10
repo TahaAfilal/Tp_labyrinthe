@@ -1,3 +1,3 @@
 # New Room 
-clicking [Rome](Rome.md)
+[Rome](Rome.md)
 
