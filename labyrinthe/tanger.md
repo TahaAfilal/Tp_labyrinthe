@@ -6,4 +6,5 @@
 ### [Clermont-Ferrand](clermont-ferrand.md):
 ![Clermont-Ferrand](../ressoureces/marrakesh.jpg)
 
-
+### [Marrakesh](marrakesh.md):
+![Marrakesh](../ressources/marrakesh.jpg)
