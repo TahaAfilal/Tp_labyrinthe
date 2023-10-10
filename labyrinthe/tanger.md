@@ -4,7 +4,7 @@
 
 ## les vols disponibles:
 ### [Clermont-Ferrand](clermont-ferrand.md):
-![Clermont-Ferrand](../ressoureces/paris.jpg)
+![Clermont-Ferrand](../ressoureces/marrakesh.jpg)
 
 ### [Marrakesh](marrakesh.md):
 ![Marrakesh](../ressources/marrakesh.jpg)
