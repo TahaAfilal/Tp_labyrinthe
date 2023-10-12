@@ -3,7 +3,7 @@
 
 
 ## les vols disponibles:
-### [Fes](Fes.md):
+### [Fes](fes.md):
 [Fes](../ressources/Fes.jpg)
 
 
