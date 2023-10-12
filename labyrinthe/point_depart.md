@@ -2,7 +2,7 @@
 C'est là que votre voyage commencera, essayez de déterminer quel est le bon chemin à suivre.
 
 
-![Aéroport](../ressources/point de départ.jpg)
+![Aéroport](../ressources/point_de_départ.jpg)
 
 
 ## les vols disponibles:
