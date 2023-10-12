@@ -3,7 +3,7 @@
 ![londre](../ressources/londre.jpg)
 
 # Vols disponibles 
-## [sete](sete.md):
+## [Sete](Sete.md)
 ![sete](../ressources/sete.jpg)
 
 
