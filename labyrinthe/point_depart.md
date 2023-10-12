@@ -2,16 +2,23 @@
 C'est là que votre voyage commencera, essayez de déterminer quel est le bon chemin à suivre.
 
 
-![Aéroport](../ressources/point_de_départ.jpg)
+![Aéroport](../ressources/depart.jpg)
 
 
 ## les vols disponibles:
-### [Fes](Fes.md):
-Une ville historique fondée par la dynastie Idrisside.
+### [Clermont-Ferrand](Clermont-ferrand.md):
+La ville des volcans
 
-![fes](../ressources/fes.jpg)
+![Clermont-Ferrand](../ressources/clermont-ferrand.jpg)
 
-### [Chemin mystérieux](gameOver.md):
-Ce chemin pourrait vous mener vers l'endroit secret, qui sait ? Devriez-vous me faire confiance ou non ?
+### [Montpellier](montpellier.md):
+ville méditerranéenne  réputée pour son climat ensoleillé, ses plages, son mélange architectural entre modernité et histoire
+
+![Montpellier](../ressources/montpellier.jpg)
+
+### [Chefchaoun](Chefchaoun.md):
+La ville bleue
+
+![Chefchaoun](../ressources/chefchouan.jpg)
 
 
