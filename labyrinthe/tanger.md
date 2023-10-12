@@ -4,6 +4,6 @@
 
 ## les vols disponibles:
 ### [Fes](Fes.md):
-[clermont](../ressources/Fes.jpg)
+[Fes](../ressources/Fes.jpg)
 
 
