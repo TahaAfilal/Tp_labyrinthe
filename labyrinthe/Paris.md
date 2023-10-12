@@ -1,7 +1,7 @@
 # ville Paris
 ![sete](../ressources/paris.jpg)
 
-# Description:Sète est une charmante ville portuaire située dans le sud de la France, dans la région d'Occitanie. 
+# Description:Paris, la capitale de la France, est une ville emblématique mondialement connue pour sa richesse culturelle, son histoire fascinante et son ambiance romantique.
 
 ## les vols disponibles:
 ### [fin](fin.md):
