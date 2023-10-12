@@ -8,7 +8,7 @@
 
 # Vous êtes arrivés à une destination spéciale 
 ## [Salle Secret](salle_secret.md)
-![Salle_Secret](../ressources/Salle_Secret.jpeg)
+![Salle_Secret](../ressources/Salle_Secret.jpg)
 
 
 
