@@ -5,4 +5,4 @@
 
 ## les vols disponibles:
 ### [fin](fin.md):
-![fin](../fin/fin.jpg)
+![fin](../ressources/fin.jpg)
