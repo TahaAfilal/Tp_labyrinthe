@@ -5,4 +5,4 @@
 
 ## les vols disponibles:
 ### [Tetouan](Tetouan.md):
-![Tétouan](../ressources/Tétouan.jpg)
+![tetouan](../ressources/tetouan.jpg)
