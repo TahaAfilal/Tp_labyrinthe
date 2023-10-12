@@ -8,5 +8,5 @@
 
 
 
-conotinue ta chemin vers [Rome](Rome.md). 
+continue vous chemin vers [Rome](Rome.md). 
 
