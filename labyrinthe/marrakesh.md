@@ -10,7 +10,7 @@ J'ai l'impression que vous voulez visiter une autre ville colorée.
 ![Chefchaoun](../ressources/chefchouan.jpg)
 
 ### [Essaouira](Essaouira.md):
-Une ville bien connue pour son festival de Gnawa
+Ou voudriez-vous pratiquer votre anglais ?
 
-![Esssaouira](../ressources/essouira.jpeg)
+![Londre](../ressources/londre.jpeg)
 
