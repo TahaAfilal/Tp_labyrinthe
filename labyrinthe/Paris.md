@@ -5,4 +5,4 @@
 
 ## les vols disponibles:
 ### [fin](fin.md):
-![tetouan](../fin/fin.jpg)
+![fin](../fin/fin.jpg)
