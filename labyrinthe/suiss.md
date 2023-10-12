@@ -5,6 +5,6 @@
 
 ## les vols disponibles:
 ### [Rabat](rabat.md): 
-![Rabat](../ressources/rabat.jpg)
+![rabat](../ressources/rabat.jpg)
 
 
