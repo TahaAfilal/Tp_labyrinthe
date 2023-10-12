@@ -12,5 +12,5 @@ J'ai l'impression que vous voulez visiter une autre ville colorée.
 ### [Essaouira](Essaouira.md):
 Ou voudriez-vous pratiquer votre anglais ?
 
-![Londre](../ressources/londre.jpeg)
+![Londre](../ressources/londre.jpg)
 
