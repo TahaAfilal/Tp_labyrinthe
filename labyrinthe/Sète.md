@@ -1,5 +1,5 @@
 # ville Sète 
-![sete](../ressources/sete.png)
+![sete](../ressources/sete.jpg)
 
 # Description:Sète est une charmante ville portuaire située dans le sud de la France, dans la région d'Occitanie. 
 
