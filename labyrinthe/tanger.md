@@ -3,8 +3,8 @@
 
 
 ## les vols disponibles:
-### [Clermont-Ferrand](clermont-ferrand.md):
-![clermont](../ressources/clermont-ferrand.jpg)
+### [Fes](Fes.md):
+![clermont](../ressources/Fes.jpg)
 
-### [Marrakesh](marrakesh.md):
-![Marrakesh](../ressources/marrakesh.jpg)
+### [Marrakesh](gameOver.md):
+![Marrakesh](../ressources/GameOver.jpg)
