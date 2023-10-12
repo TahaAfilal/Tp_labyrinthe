@@ -6,5 +6,5 @@ Vous n'êtes pas concentré, vous devez rentrer chez vous, vous reposer, puis vo
 
 
 
-[Chez vous](../ressources/game_over.jpg)
+[Chez vous](point_depart.md)
 
