@@ -5,8 +5,8 @@
 
 ## les vols disponibles:
 ### [Tanger](tanger.md): 
-![tanger](../ressources/tanger.jpg)
+![Tanger](../ressources/tanger.jpg)
 
 ### [Londre](Londre.md): 
-![londre](../ressources/londre.jpg)
+![Londre](../ressources/londre.jpg)
 
