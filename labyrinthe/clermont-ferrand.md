@@ -12,4 +12,4 @@ avec un histoire et son patrimoine architectural voulez-vous visiter Lyon  ?
 ### [Essaouira](Essaouira.md):
 Une ville bien connue pour son festival de Gnawa
 
-![Esssaouira](../ressources/essouira.jpg)
+![Esssaouira](../ressources/essouira.jpeg)
