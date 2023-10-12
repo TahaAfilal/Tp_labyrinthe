@@ -3,9 +3,10 @@
 ![rome](../ressources/rome.jpg)
 
 # Vols disponibles
-## Game over
-### Congraaats, you won!!!
-![fin](../ressources/fin.jpg)
+## [??](gameOver.md):
+Faites attention à votre choix.
 
+## [peut-etre la fin ?](fin.md):
+Faites-moi confiance, prenez ce vol.
 
 
