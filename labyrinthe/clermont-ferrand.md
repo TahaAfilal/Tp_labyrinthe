@@ -1,4 +1,4 @@
 #
 [tanger](tanger.md)
 ## ville tanger:
-![Tanger](../ressources/tanger.jpg)
+![Tanger](../ressources/marrakesh.jpg)
