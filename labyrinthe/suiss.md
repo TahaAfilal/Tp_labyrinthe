@@ -1,5 +1,5 @@
 # Pays Suisse
-![Essaouira](../ressources/swiss.jpg)
+![Suisse](../ressources/swiss.jpg)
 
 # Description: La Suisse est un pays montagneux d'Europe centrale abritant de nombreux lacs et villages, ainsi que les hauts sommets des Alpes.
 
