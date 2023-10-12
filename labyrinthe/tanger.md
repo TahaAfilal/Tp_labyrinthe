@@ -12,5 +12,7 @@ Tanger est une ville portuaire historique réputée pour sa localisation straté
 Une ville historique fondée par la dynastie Idrisside.
 
 ![fes](../ressources/fes.jpg)
-### [Fes](Fes.md):
+
+### [gameOver](gameOver.md):
+Ce chemin pourrait vous mener vers l'endroit secret, qui sait ? Devriez-vous me faire confiance ou non ?
 
