@@ -6,7 +6,7 @@ C'est là que votre voyage commencera, essayez de déterminer quel est le bon ch
 
 
 ## les vols disponibles:
-### [Clermont-Ferrand](Clermont-ferrand.md):
+### [Clermont-Ferrand](clermont-ferrand.md):
 La ville des volcans
 
 ![Clermont-Ferrand](../ressources/clermont-ferrand.jpg)
