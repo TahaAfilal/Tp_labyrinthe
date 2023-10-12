@@ -14,7 +14,7 @@ La ville des volcans
 ### [Montpellier](montpellier.md):
 ville méditerranéenne  réputée pour son climat ensoleillé, ses plages, son mélange architectural entre modernité et histoire
 
-![Montpellier](../ressources/montpellier.jpg)
+![Montpellier](../ressources/montpellier.png)
 
 ### [Chefchaoun](Chefchaoun.md):
 La ville bleue
