@@ -13,6 +13,6 @@ Une ville historique fondée par la dynastie Idrisside.
 
 ![fes](../ressources/fes.jpg)
 
-### [gameOver](gameOver.md):
+### [Chemin mystérieux](gameOver.md):
 Ce chemin pourrait vous mener vers l'endroit secret, qui sait ? Devriez-vous me faire confiance ou non ?
 
