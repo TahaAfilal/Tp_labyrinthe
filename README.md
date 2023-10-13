@@ -12,4 +12,4 @@ Ce projet représente un jeu dont l'objectif est de sortir d'un labyrinthe que n
 # Map de Labyrinthe: 
 ![Map labyrinthe](../ressources/Labyrinthe.png)
 
-vous pouvez commencer en cliquant sur [jouer](point_depart.md)
+vous pouvez commencer en cliquant sur [jouer](labyrinthe/point_depart.md)
