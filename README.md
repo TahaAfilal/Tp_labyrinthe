@@ -10,6 +10,6 @@ Le projet a été réalisé en collaboration avec les étudiants de l'École Uni
 Ce projet représente un jeu dont l'objectif est de sortir d'un labyrinthe que nous avons créé.
 
 # Map de Labyrinthe: 
-![Map labyrinthe](../ressources/Labyrinthe.png)
+![Map labyrinthe](ressources/Labyrinthe.png)
 
 vous pouvez commencer en cliquant sur [jouer](labyrinthe/point_depart.md)
